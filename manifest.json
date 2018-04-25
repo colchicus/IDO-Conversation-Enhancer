@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "IDO Conversation Enhancer",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Hides posts from selected users on in-depthoutdoors forums",
   "permissions": ["contextMenus","storage"],
   "options_page": "options.html",
